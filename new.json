@@ -1,3 +1,9 @@
-111111
-222222
+{       "person":"Valentina Alexeev",
+	"age":40,
+	"pets":"parot":
+	              {
+		     "name":"Oskar",
+		     "age":5
+		      }
 
+}
