@@ -10,6 +10,7 @@
      "Actual_result":"when i clicked proceed button,it showed an *error* message",
      "Severity":"major",
      "Priority":"Higt"
+     "Browser":"Chrome"
     }
   
 } 
