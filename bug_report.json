@@ -1,0 +1,22 @@
+{
+  "Bug_report":
+    {
+     "ID_number":"#AB24",
+     "Name":"Navigation bar.The button not responding.",
+     "Reporter":"Valentina Alexeev",
+     "Summary":"I tried to sign in from the home page by clicking on the sign in button,but nothing happened",
+     "URL":"www.example.com/sign-up",
+     "Expected_resoult":"I should've been taken to the player page when i clicked on the proceed button.",
+     "Actual_result":"when i clicked proceed button,it showed an *error* message",
+     "Severity":"major",
+     "Priority":"Higt"
+     "Browser":"Chrome"
+    }
+  
+} 
+     
+     
+     
+     
+     
+   
